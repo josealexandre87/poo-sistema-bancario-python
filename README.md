@@ -27,7 +27,7 @@ Bem-vindo ao **Sistema Bancário em POO com Python**! Este projeto simula um sis
 
 ## 🎯 Objetivo
 
-O projeto visa melhorar a implementação do sistema bancário utilizando POO e outras ferramentas avançadas do Python, como classes abstratas e manipulação de datas, proporcionando uma maior clareza e escalabilidade ao código. Desenvolvido como parte do exercício prático do Bootcamp NTT DATA - Engenharia de Dados com Python da DIO.
+O projeto visa melhorar a implementação do sistema bancário utilizando POO e outras ferramentas avançadas do Python, como classes abstratas e manipulação de datas, proporcionando uma maior clareza e escalabilidade ao código. Desenvolvido como parte do exercício prático da Formação Python Funtamentals da DIO.
 
 ## 🛠️ Como Executar
 
